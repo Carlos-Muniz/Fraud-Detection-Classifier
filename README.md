@@ -1,5 +1,5 @@
 # Fraud-Detection-Classifier
-A PyTorch Implementation of a Neural Network Classifier for Fraud Detection
+A Data Science approach to Binary Classification using a Fraud Detection Dataset and a PyTorch Implementation of a Neural Network Classifier 
 
 ## Directions
 All directions and libraries can be found in Python Notebook.
